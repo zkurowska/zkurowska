@@ -7,7 +7,7 @@ I'm Zuzanna Kurowska and I'm a Sociology PhD Candidate at Adam Mickiewicz Univer
 * ORCiD: https://orcid.org/0009-0009-0906-9016
 * ResearchGate: https://www.researchgate.net/profile/Zuzanna-Kurowska-4
 
-#### Relevant Announcements
+#### ❗ Relevant Announcements
 
 [[Call for Papers] Dire Intersections: Social Inequalities and Climate Change
 ](https://www.researchgate.net/publication/402662281_Call_for_Papers_Dire_Intersections_Social_Inequalities_and_Climate_Change)
