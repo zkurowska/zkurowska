@@ -19,7 +19,7 @@ I'm Zuzanna Kurowska and I'm a Sociology PhD Candidate at Adam Mickiewicz Univer
 
 ### ✨ Research Output Highlights
 
-Mączka, K., Kurowska, Z., Matczak, P., Bodnar-Potopnyk, O., & Takacs, V. (2026). Is this drama called populism? A comparison of protagonists, allies, antagonists, and victims in the narratives of Polish and Hungarian energy experts. _Energy Research & Social Science_, _134_, 104623.
+Mączka, K., Kurowska, Z., Matczak, P., Bodnar-Potopnyk, O., & Takacs, V. (2026). Is this drama called populism? A comparison of protagonists, allies, antagonists, and victims in the narratives of Polish and Hungarian energy experts. _Energy Research & Social Science_, _134_, 104623. https://doi.org/10.1016/j.erss.2026.104623
 
 Kurowska, Z., Socha, J., & Gabryszewska, K. (2024). How housing problems affect students: Analysis of in-depth interviews with Polish student occupation strike participants. _Society Register_, _8_(3), 7–36. https://doi.org/10.14746/sr.2024.8.3.01 
 
