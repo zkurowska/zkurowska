@@ -12,6 +12,9 @@ I'm Zuzanna Kurowska and I'm a Sociology PhD Candidate at Adam Mickiewicz Univer
 [[Call for Papers] Dire Intersections: Social Inequalities and Climate Change
 ](https://www.researchgate.net/publication/402662281_Call_for_Papers_Dire_Intersections_Social_Inequalities_and_Climate_Change)
 
+<img width="425" height="322" alt="CFP_SFN_png" src="https://github.com/user-attachments/assets/9b383857-a7f2-49d7-83d8-37cd54be0670" />
+
+
 ## ABOUT ME
 
 ### ✨ Research Output Highlights
