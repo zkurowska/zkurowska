@@ -2,7 +2,7 @@
 
 I'm Zuzanna Kurowska and I'm a Sociology PhD Candidate at Adam Mickiewicz University in Poznań, Poland. My current academic focus is on researching human thermal comfort and heatwave adaptation behavior through social science and simulation methods, though when possible, I love working on other topics as well! My research interests include artificial intelligence, simulation and computational methods in social sciences, urban resilience, housing, social movements, and political behavior.
 
-#### ✉️ Contact me
+#### ✉️ Contact Me
 * E-mail: zuzanna.kurowska@amu.edu.pl
 * ORCiD: https://orcid.org/0009-0009-0906-9016
 * ResearchGate: https://www.researchgate.net/profile/Zuzanna-Kurowska-4
