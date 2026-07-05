@@ -7,17 +7,11 @@ I'm Zuzanna Kurowska and I'm a Sociology PhD Candidate at Adam Mickiewicz Univer
 * ORCiD: https://orcid.org/0009-0009-0906-9016
 * ResearchGate: https://www.researchgate.net/profile/Zuzanna-Kurowska-4
 
-#### ❗ Relevant Announcements
-
-[[Call for Papers] Dire Intersections: Social Inequalities and Climate Change
-](https://www.researchgate.net/publication/402662281_Call_for_Papers_Dire_Intersections_Social_Inequalities_and_Climate_Change)
-
-<img width="425" height="322" alt="CFP_SFN_png" src="https://github.com/user-attachments/assets/9b383857-a7f2-49d7-83d8-37cd54be0670" />
-
-
 ## ABOUT ME
 
 ### ✨ Research Output Highlights
+
+Ratajczyk, D., Kurowska, Z., Wasielewska, A., & Łupkowski, P. (2026). Interactions with artificial agents in virtual reality: A study of behaviors in game-based tasks. _International Journal of Human-Computer Studies_, 103882.
 
 Mączka, K., Kurowska, Z., Matczak, P., Bodnar-Potopnyk, O., & Takacs, V. (2026). Is this drama called populism? A comparison of protagonists, allies, antagonists, and victims in the narratives of Polish and Hungarian energy experts. _Energy Research & Social Science_, _134_, 104623. https://doi.org/10.1016/j.erss.2026.104623
 
