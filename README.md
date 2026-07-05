@@ -11,7 +11,7 @@ I'm Zuzanna Kurowska and I'm a Sociology PhD Candidate at Adam Mickiewicz Univer
 
 ### ✨ Research Output Highlights
 
-Ratajczyk, D., Kurowska, Z., Wasielewska, A., & Łupkowski, P. (2026). Interactions with artificial agents in virtual reality: A study of behaviors in game-based tasks. _International Journal of Human-Computer Studies_, 103882.
+Ratajczyk, D., Kurowska, Z., Wasielewska, A., & Łupkowski, P. (2026). Interactions with artificial agents in virtual reality: A study of behaviors in game-based tasks. _International Journal of Human-Computer Studies_, 103882. https://doi.org/10.1016/j.ijhcs.2026.103882
 
 Mączka, K., Kurowska, Z., Matczak, P., Bodnar-Potopnyk, O., & Takacs, V. (2026). Is this drama called populism? A comparison of protagonists, allies, antagonists, and victims in the narratives of Polish and Hungarian energy experts. _Energy Research & Social Science_, _134_, 104623. https://doi.org/10.1016/j.erss.2026.104623
 
